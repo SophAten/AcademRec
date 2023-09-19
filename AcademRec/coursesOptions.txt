@@ -1,0 +1,7 @@
+CS151: Object-Oriented Design
+CS166: Information Security
+CS154: Theory of COmputation
+CS160: Software Engineering
+CS256: Cryptography
+CS146: Data Structures and Algorithms
+CS152: Programming Paradigm
